@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "signalclone",
-    "slug": "signalclone",
+    "name": "apprunning",
+    "slug": "apprunning",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
